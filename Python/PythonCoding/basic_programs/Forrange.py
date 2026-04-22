@@ -1,0 +1,39 @@
+# Natural Language
+'''
+num = int(input('Enter a Number '))
+sum = 0
+for i in range(1, num+1):
+    sum = sum + i**2
+print('Sum of Squares of natural nos ',sum)
+'''
+
+#Print * for n times
+num = int(input('Enter no of * '))
+
+for _ in range(1, num+1):
+    print('*', '& ',sep= ' ',end = '\t')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
