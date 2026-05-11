@@ -1,0 +1,117 @@
+2026-05-08 16:46:07,162 - INFO - ========================================
+2026-05-08 16:46:07,163 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-08 16:46:07,163 - INFO - Browser fetched : edge
+2026-05-08 16:46:07,163 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-08 16:46:07,163 - INFO - Implicit wait fetched : 5
+2026-05-08 16:46:07,163 - INFO - Headless mode : False
+2026-05-08 16:46:07,163 - INFO - Launching Edge Browser
+2026-05-08 16:46:12,825 - INFO - Browser Opened & Maximized Successfully
+2026-05-08 16:46:12,826 - INFO - Demoblaze URL loaded
+2026-05-08 16:46:12,828 - INFO - Scenario Status : Status.error
+2026-05-08 16:46:12,828 - INFO - SCENARIO PASSED : Successful Signup
+2026-05-08 16:46:16,149 - INFO - Browser Closed Successfully
+2026-05-08 16:46:16,150 - INFO - ========================================
+2026-05-08 16:51:07,004 - INFO - ========================================
+2026-05-08 16:51:07,004 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-08 16:51:07,005 - INFO - Browser fetched : edge
+2026-05-08 16:51:07,005 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-08 16:51:07,005 - INFO - Implicit wait fetched : 5
+2026-05-08 16:51:07,005 - INFO - Headless mode : False
+2026-05-08 16:51:11,252 - INFO - Browser launched successfully
+2026-05-08 16:51:11,253 - INFO - Launching Demoblaze application
+2026-05-08 16:51:11,255 - INFO - Click Sign up menu
+2026-05-08 16:51:11,255 - INFO - Click signup menu
+2026-05-08 16:51:11,453 - INFO - Enter username: useraaaaa
+2026-05-08 16:51:11,453 - INFO - Enter username
+2026-05-08 16:51:11,792 - INFO - Enter password: pwdaaaaa
+2026-05-08 16:51:11,792 - INFO - Enter password
+2026-05-08 16:51:11,936 - INFO - Click Signup button
+2026-05-08 16:51:11,936 - INFO - Click signup button
+2026-05-08 16:51:12,038 - INFO - Verify success message
+2026-05-08 16:51:12,096 - INFO - Scenario Status : Status.error
+2026-05-08 16:51:12,097 - INFO - PASSED: Successful Signup
+2026-05-08 16:55:24,500 - INFO - ========================================
+2026-05-08 16:55:24,501 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-08 16:55:24,501 - INFO - Browser fetched : edge
+2026-05-08 16:55:24,501 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-08 16:55:24,501 - INFO - Implicit wait fetched : 5
+2026-05-08 16:55:24,501 - INFO - Headless mode : False
+2026-05-08 16:55:28,062 - INFO - Browser launched successfully
+2026-05-08 16:55:28,070 - INFO - Launching Demoblaze application
+2026-05-08 16:55:28,089 - INFO - Click Sign up menu
+2026-05-08 16:55:28,089 - INFO - Click signup menu
+2026-05-08 16:55:28,323 - INFO - Enter username: useraaaaa
+2026-05-08 16:55:28,323 - INFO - Enter username: useraaaaa
+2026-05-08 16:55:28,712 - INFO - Enter password: pwdaaaaa
+2026-05-08 16:55:28,712 - INFO - Enter password
+2026-05-08 16:55:28,908 - INFO - Click Signup button
+2026-05-08 16:55:28,908 - INFO - Click signup button
+2026-05-08 16:55:29,025 - INFO - Verify success message
+2026-05-08 16:55:30,162 - INFO - Screenshot saved at: reports/screenshots/signup_success_20260508_165530.png
+2026-05-08 16:55:30,164 - INFO - Scenario Status : Status.failed
+2026-05-08 16:55:30,164 - ERROR - FAILED: Successful Signup
+2026-05-08 16:55:30,270 - INFO - Screenshot saved at: reports/screenshots/Successful_Signup_20260508_165530.png
+2026-05-08 16:57:40,112 - INFO - ========================================
+2026-05-08 16:57:40,112 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-08 16:57:40,112 - INFO - Browser fetched : edge
+2026-05-08 16:57:40,112 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-08 16:57:40,112 - INFO - Implicit wait fetched : 5
+2026-05-08 16:57:40,112 - INFO - Headless mode : False
+2026-05-08 16:57:43,502 - INFO - Browser launched successfully
+2026-05-08 16:57:43,505 - INFO - Launching Demoblaze application
+2026-05-08 16:57:43,510 - INFO - Click signup menu
+2026-05-08 16:57:43,510 - INFO - Click signup menu
+2026-05-08 16:57:43,655 - INFO - Enter username: useraaaaa
+2026-05-08 16:57:43,655 - INFO - Enter username: useraaaaa
+2026-05-08 16:57:43,938 - INFO - Enter password: pwdaaaaa
+2026-05-08 16:57:43,938 - INFO - Enter password
+2026-05-08 16:57:44,058 - INFO - Click signup button
+2026-05-08 16:57:44,058 - INFO - Click signup button
+2026-05-08 16:57:44,150 - INFO - Verify signup success message
+2026-05-08 16:57:45,261 - INFO - Screenshot saved at: reports/screenshots/signup_success_20260508_165745.png
+2026-05-08 16:57:45,261 - INFO - Alert Text Received: This user already exist.
+2026-05-08 16:57:45,264 - INFO - Scenario Status : Status.failed
+2026-05-08 16:57:45,264 - ERROR - FAILED: Successful Signup
+2026-05-08 16:57:45,345 - INFO - Screenshot saved at: reports/screenshots/Successful_Signup_20260508_165745.png
+2026-05-08 17:00:33,029 - INFO - ========================================
+2026-05-08 17:00:33,030 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-08 17:00:33,030 - INFO - Browser fetched : edge
+2026-05-08 17:00:33,031 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-08 17:00:33,031 - INFO - Implicit wait fetched : 5
+2026-05-08 17:00:33,032 - INFO - Headless mode : False
+2026-05-08 17:00:41,885 - INFO - Browser launched successfully
+2026-05-08 17:00:41,887 - INFO - Launching Demoblaze application
+2026-05-08 17:00:41,889 - INFO - Clicking Sign up menu
+2026-05-08 17:00:41,889 - INFO - Click signup menu
+2026-05-08 17:00:42,054 - INFO - Entering username: user1778239842
+2026-05-08 17:00:42,054 - INFO - Enter username: user1778239842
+2026-05-08 17:00:42,426 - INFO - Entering password: pwdaaaaa
+2026-05-08 17:00:42,427 - INFO - Enter password
+2026-05-08 17:00:42,562 - INFO - Clicking Signup button
+2026-05-08 17:00:42,562 - INFO - Click signup button
+2026-05-08 17:00:42,650 - INFO - Verifying signup success message
+2026-05-08 17:00:43,880 - INFO - Screenshot saved at: reports/screenshots/signup_success_20260508_170043.png
+2026-05-08 17:00:43,880 - INFO - Alert received: Sign up successful.
+2026-05-08 17:00:43,881 - INFO - Scenario Status : Status.passed
+2026-05-08 17:00:43,881 - INFO - PASSED: Successful Signup
+2026-05-08 17:01:10,034 - INFO - ========================================
+2026-05-08 17:01:10,034 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-08 17:01:10,034 - INFO - Browser fetched : edge
+2026-05-08 17:01:10,035 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-08 17:01:10,035 - INFO - Implicit wait fetched : 5
+2026-05-08 17:01:10,035 - INFO - Headless mode : False
+2026-05-08 17:01:14,372 - INFO - Browser launched successfully
+2026-05-08 17:01:14,400 - INFO - Launching Demoblaze application
+2026-05-08 17:01:14,402 - INFO - Clicking Sign up menu
+2026-05-08 17:01:14,402 - INFO - Click signup menu
+2026-05-08 17:01:14,556 - INFO - Entering username: user1778239874
+2026-05-08 17:01:14,556 - INFO - Enter username: user1778239874
+2026-05-08 17:01:14,900 - INFO - Entering password: pwdaaaaa
+2026-05-08 17:01:14,900 - INFO - Enter password
+2026-05-08 17:01:15,024 - INFO - Clicking Signup button
+2026-05-08 17:01:15,024 - INFO - Click signup button
+2026-05-08 17:01:15,143 - INFO - Verifying signup success message
+2026-05-08 17:01:16,359 - INFO - Screenshot saved at: reports/screenshots/signup_success_20260508_170116.png
+2026-05-08 17:01:16,359 - INFO - Alert received: Sign up successful.
+2026-05-08 17:01:16,667 - INFO - Scenario Status : Status.passed
+2026-05-08 17:01:16,667 - INFO - PASSED: Successful Signup
