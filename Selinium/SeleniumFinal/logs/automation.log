@@ -1,24 +1,394 @@
-2026-05-09 15:49:42,959 - INFO - =======================
-2026-05-09 15:49:42,960 - INFO - STARTING TEST
-2026-05-09 15:49:42,960 - INFO - Reading Configure
-2026-05-09 15:49:44,915 - INFO - Opened Browser
-2026-05-09 15:49:45,939 - INFO - URL Loaded: https://www.saucedemo.com/
-2026-05-09 15:49:48,736 - INFO - Closing Browser: edge
-2026-05-09 15:49:48,736 - INFO - ENDING TEST
-2026-05-09 15:49:48,736 - INFO - =======================================
-2026-05-09 15:49:48,738 - INFO - =======================
-2026-05-09 15:49:48,738 - INFO - STARTING TEST
-2026-05-09 15:49:48,738 - INFO - Reading Configure
-2026-05-09 15:49:50,542 - INFO - Opened Browser
-2026-05-09 15:49:51,466 - INFO - URL Loaded: https://www.saucedemo.com/
-2026-05-09 15:49:53,904 - INFO - Closing Browser: edge
-2026-05-09 15:49:53,904 - INFO - ENDING TEST
-2026-05-09 15:49:53,904 - INFO - =======================================
-2026-05-09 15:49:53,906 - INFO - =======================
-2026-05-09 15:49:53,906 - INFO - STARTING TEST
-2026-05-09 15:49:53,906 - INFO - Reading Configure
-2026-05-09 15:49:55,556 - INFO - Opened Browser
-2026-05-09 15:49:56,322 - INFO - URL Loaded: https://www.saucedemo.com/
-2026-05-09 15:49:58,715 - INFO - Closing Browser: edge
-2026-05-09 15:49:58,715 - INFO - ENDING TEST
-2026-05-09 15:49:58,715 - INFO - =======================================
+2026-05-14 21:21:51 - INFO - root - ==================================================
+2026-05-14 21:21:51 - INFO - root - Starting test!!
+2026-05-14 21:21:51 - INFO - root - Reading 
+2026-05-14 21:21:51 - INFO - root - ==================================================
+2026-05-14 21:21:51 - INFO - root - Starting test!!
+2026-05-14 21:21:51 - INFO - root - Reading 
+2026-05-14 21:21:51 - INFO - root - ==================================================
+2026-05-14 21:21:51 - INFO - root - Starting test!!
+2026-05-14 21:21:51 - INFO - root - Reading 
+2026-05-14 21:21:51 - INFO - root - ==================================================
+2026-05-14 21:21:51 - INFO - root - Starting test!!
+2026-05-14 21:21:51 - INFO - root - Reading 
+2026-05-14 21:21:51 - INFO - root - ==================================================
+2026-05-14 21:21:51 - INFO - root - Starting test!!
+2026-05-14 21:21:51 - INFO - root - Reading 
+2026-05-14 21:21:51 - INFO - root - ==================================================
+2026-05-14 21:21:51 - INFO - root - Starting test!!
+2026-05-14 21:21:51 - INFO - root - Reading 
+2026-05-14 21:26:52 - INFO - root - ==================================================
+2026-05-14 21:26:52 - INFO - root - Starting test!!
+2026-05-14 21:26:52 - INFO - root - Reading 
+2026-05-14 21:26:57 - INFO - root - Opened browser: edge
+2026-05-14 21:26:58 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:27:02 - INFO - root - Closing browser: edge
+2026-05-14 21:27:02 - INFO - root - ENDING TEST
+2026-05-14 21:27:02 - INFO - root - ================================================
+2026-05-14 21:27:02 - INFO - root - ==================================================
+2026-05-14 21:27:02 - INFO - root - Starting test!!
+2026-05-14 21:27:02 - INFO - root - Reading 
+2026-05-14 21:27:04 - INFO - root - Opened browser: edge
+2026-05-14 21:27:05 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:27:08 - INFO - root - Closing browser: edge
+2026-05-14 21:27:08 - INFO - root - ENDING TEST
+2026-05-14 21:27:08 - INFO - root - ================================================
+2026-05-14 21:27:08 - INFO - root - ==================================================
+2026-05-14 21:27:08 - INFO - root - Starting test!!
+2026-05-14 21:27:08 - INFO - root - Reading 
+2026-05-14 21:27:10 - INFO - root - Opened browser: edge
+2026-05-14 21:27:11 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:27:14 - INFO - root - Closing browser: edge
+2026-05-14 21:27:14 - INFO - root - ENDING TEST
+2026-05-14 21:27:14 - INFO - root - ================================================
+2026-05-14 21:27:14 - INFO - root - ==================================================
+2026-05-14 21:27:14 - INFO - root - Starting test!!
+2026-05-14 21:27:14 - INFO - root - Reading 
+2026-05-14 21:27:16 - INFO - root - Opened browser: edge
+2026-05-14 21:27:16 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:27:19 - INFO - root - Closing browser: edge
+2026-05-14 21:27:19 - INFO - root - ENDING TEST
+2026-05-14 21:27:19 - INFO - root - ================================================
+2026-05-14 21:27:19 - INFO - root - ==================================================
+2026-05-14 21:27:19 - INFO - root - Starting test!!
+2026-05-14 21:27:19 - INFO - root - Reading 
+2026-05-14 21:27:21 - INFO - root - Opened browser: edge
+2026-05-14 21:27:22 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:27:25 - INFO - root - Closing browser: edge
+2026-05-14 21:27:25 - INFO - root - ENDING TEST
+2026-05-14 21:27:25 - INFO - root - ================================================
+2026-05-14 21:27:25 - INFO - root - ==================================================
+2026-05-14 21:27:25 - INFO - root - Starting test!!
+2026-05-14 21:27:25 - INFO - root - Reading 
+2026-05-14 21:27:27 - INFO - root - Opened browser: edge
+2026-05-14 21:27:28 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:27:31 - INFO - root - Closing browser: edge
+2026-05-14 21:27:31 - INFO - root - ENDING TEST
+2026-05-14 21:27:31 - INFO - root - ================================================
+2026-05-14 21:40:06 - INFO - root - ==================================================
+2026-05-14 21:40:06 - INFO - root - Starting test!!
+2026-05-14 21:40:06 - INFO - root - Reading 
+2026-05-14 21:40:09 - INFO - root - Opened browser: edge
+2026-05-14 21:40:10 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:40:13 - INFO - root - Closing browser: edge
+2026-05-14 21:40:13 - INFO - root - ENDING TEST
+2026-05-14 21:40:13 - INFO - root - ================================================
+2026-05-14 21:40:13 - INFO - root - ==================================================
+2026-05-14 21:40:13 - INFO - root - Starting test!!
+2026-05-14 21:40:13 - INFO - root - Reading 
+2026-05-14 21:40:14 - INFO - root - Opened browser: edge
+2026-05-14 21:40:15 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:40:18 - INFO - root - Closing browser: edge
+2026-05-14 21:40:18 - INFO - root - ENDING TEST
+2026-05-14 21:40:18 - INFO - root - ================================================
+2026-05-14 21:40:18 - INFO - root - ==================================================
+2026-05-14 21:40:18 - INFO - root - Starting test!!
+2026-05-14 21:40:18 - INFO - root - Reading 
+2026-05-14 21:40:20 - INFO - root - Opened browser: edge
+2026-05-14 21:40:21 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:40:23 - INFO - root - Closing browser: edge
+2026-05-14 21:40:23 - INFO - root - ENDING TEST
+2026-05-14 21:40:23 - INFO - root - ================================================
+2026-05-14 21:40:23 - INFO - root - ==================================================
+2026-05-14 21:40:23 - INFO - root - Starting test!!
+2026-05-14 21:40:23 - INFO - root - Reading 
+2026-05-14 21:40:25 - INFO - root - Opened browser: edge
+2026-05-14 21:40:26 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:40:29 - INFO - root - Closing browser: edge
+2026-05-14 21:40:29 - INFO - root - ENDING TEST
+2026-05-14 21:40:29 - INFO - root - ================================================
+2026-05-14 21:40:29 - INFO - root - ==================================================
+2026-05-14 21:40:29 - INFO - root - Starting test!!
+2026-05-14 21:40:29 - INFO - root - Reading 
+2026-05-14 21:40:31 - INFO - root - Opened browser: edge
+2026-05-14 21:40:31 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:40:34 - INFO - root - Closing browser: edge
+2026-05-14 21:40:34 - INFO - root - ENDING TEST
+2026-05-14 21:40:34 - INFO - root - ================================================
+2026-05-14 21:40:34 - INFO - root - ==================================================
+2026-05-14 21:40:34 - INFO - root - Starting test!!
+2026-05-14 21:40:34 - INFO - root - Reading 
+2026-05-14 21:40:36 - INFO - root - Opened browser: edge
+2026-05-14 21:40:37 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:40:40 - INFO - root - Closing browser: edge
+2026-05-14 21:40:40 - INFO - root - ENDING TEST
+2026-05-14 21:40:40 - INFO - root - ================================================
+2026-05-14 21:44:42 - INFO - root - ==================================================
+2026-05-14 21:44:42 - INFO - root - Starting test!!
+2026-05-14 21:44:42 - INFO - root - Reading 
+2026-05-14 21:44:45 - INFO - root - Opened browser: edge
+2026-05-14 21:44:46 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:44:52 - INFO - root - Closing browser: edge
+2026-05-14 21:44:52 - INFO - root - ENDING TEST
+2026-05-14 21:44:52 - INFO - root - ================================================
+2026-05-14 21:44:52 - INFO - root - ==================================================
+2026-05-14 21:44:52 - INFO - root - Starting test!!
+2026-05-14 21:44:52 - INFO - root - Reading 
+2026-05-14 21:44:54 - INFO - root - Opened browser: edge
+2026-05-14 21:44:56 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:44:59 - INFO - root - Closing browser: edge
+2026-05-14 21:44:59 - INFO - root - ENDING TEST
+2026-05-14 21:44:59 - INFO - root - ================================================
+2026-05-14 21:44:59 - INFO - root - ==================================================
+2026-05-14 21:44:59 - INFO - root - Starting test!!
+2026-05-14 21:44:59 - INFO - root - Reading 
+2026-05-14 21:45:01 - INFO - root - Opened browser: edge
+2026-05-14 21:45:02 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:45:06 - INFO - root - Closing browser: edge
+2026-05-14 21:45:06 - INFO - root - ENDING TEST
+2026-05-14 21:45:06 - INFO - root - ================================================
+2026-05-14 21:45:06 - INFO - root - ==================================================
+2026-05-14 21:45:06 - INFO - root - Starting test!!
+2026-05-14 21:45:06 - INFO - root - Reading 
+2026-05-14 21:45:08 - INFO - root - Opened browser: edge
+2026-05-14 21:45:08 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:45:13 - INFO - root - Closing browser: edge
+2026-05-14 21:45:13 - INFO - root - ENDING TEST
+2026-05-14 21:45:13 - INFO - root - ================================================
+2026-05-14 21:45:13 - INFO - root - ==================================================
+2026-05-14 21:45:13 - INFO - root - Starting test!!
+2026-05-14 21:45:13 - INFO - root - Reading 
+2026-05-14 21:45:15 - INFO - root - Opened browser: edge
+2026-05-14 21:45:15 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:45:19 - INFO - root - Closing browser: edge
+2026-05-14 21:45:19 - INFO - root - ENDING TEST
+2026-05-14 21:45:19 - INFO - root - ================================================
+2026-05-14 21:45:19 - INFO - root - ==================================================
+2026-05-14 21:45:19 - INFO - root - Starting test!!
+2026-05-14 21:45:19 - INFO - root - Reading 
+2026-05-14 21:45:21 - INFO - root - Opened browser: edge
+2026-05-14 21:45:21 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:45:25 - INFO - root - Closing browser: edge
+2026-05-14 21:45:25 - INFO - root - ENDING TEST
+2026-05-14 21:45:25 - INFO - root - ================================================
+2026-05-14 21:51:44 - INFO - root - ==================================================
+2026-05-14 21:51:44 - INFO - root - Starting test!!
+2026-05-14 21:51:44 - INFO - root - Reading 
+2026-05-14 21:51:47 - INFO - root - Opened browser: edge
+2026-05-14 21:51:48 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:51:48 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-14 21:51:48 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:51:48 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:51:49 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:51:49 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:51:49 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:51:49 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:51:49 - INFO - root - Getting product name
+2026-05-14 21:51:51 - INFO - root - Closing browser: edge
+2026-05-14 21:51:51 - INFO - root - ENDING TEST
+2026-05-14 21:51:51 - INFO - root - ================================================
+2026-05-14 21:51:51 - INFO - root - ==================================================
+2026-05-14 21:51:51 - INFO - root - Starting test!!
+2026-05-14 21:51:51 - INFO - root - Reading 
+2026-05-14 21:51:52 - INFO - root - Opened browser: edge
+2026-05-14 21:51:53 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:51:53 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-14 21:51:53 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:51:53 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:51:53 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:51:53 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:51:54 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:51:54 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:51:54 - INFO - root - Getting product name
+2026-05-14 21:51:58 - INFO - root - Closing browser: edge
+2026-05-14 21:51:58 - INFO - root - ENDING TEST
+2026-05-14 21:51:58 - INFO - root - ================================================
+2026-05-14 21:51:58 - INFO - root - ==================================================
+2026-05-14 21:51:58 - INFO - root - Starting test!!
+2026-05-14 21:51:58 - INFO - root - Reading 
+2026-05-14 21:52:00 - INFO - root - Opened browser: edge
+2026-05-14 21:52:00 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:52:00 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-14 21:52:00 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:52:00 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:52:01 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:52:01 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:52:01 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:52:01 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:52:01 - INFO - root - Clicking on menu button and logout
+2026-05-14 21:52:01 - INFO - root -  Clicking in the element : ('id', 'react-burger-menu-btn')
+2026-05-14 21:52:01 - INFO - root - Locating the element : ('id', 'react-burger-menu-btn')
+2026-05-14 21:52:02 - INFO - root -  Clicking in the element : ('id', 'logout_sidebar_link')
+2026-05-14 21:52:02 - INFO - root - Locating the element : ('id', 'logout_sidebar_link')
+2026-05-14 21:52:05 - INFO - root - Closing browser: edge
+2026-05-14 21:52:05 - INFO - root - ENDING TEST
+2026-05-14 21:52:05 - INFO - root - ================================================
+2026-05-14 21:52:05 - INFO - root - ==================================================
+2026-05-14 21:52:05 - INFO - root - Starting test!!
+2026-05-14 21:52:05 - INFO - root - Reading 
+2026-05-14 21:52:07 - INFO - root - Opened browser: edge
+2026-05-14 21:52:07 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:52:07 - INFO - root - Login page opened
+2026-05-14 21:52:07 - INFO - root - Trying to login with data - standard_user, secret_sauce
+2026-05-14 21:52:07 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-14 21:52:07 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:52:07 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:52:08 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:52:08 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:52:08 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:52:08 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:52:08 - INFO - root - Checking logged in status
+2026-05-14 21:52:08 - INFO - root - Login Successful - Inventory page opened 
+2026-05-14 21:52:08 - INFO - root - Screenshot saved at: reports/screenshots/login_test_20260514_215208.png
+2026-05-14 21:52:14 - INFO - root - Closing browser: edge
+2026-05-14 21:52:14 - INFO - root - ENDING TEST
+2026-05-14 21:52:14 - INFO - root - ================================================
+2026-05-14 21:52:14 - INFO - root - ==================================================
+2026-05-14 21:52:14 - INFO - root - Starting test!!
+2026-05-14 21:52:14 - INFO - root - Reading 
+2026-05-14 21:52:16 - INFO - root - Opened browser: edge
+2026-05-14 21:52:17 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:52:17 - INFO - root - Login page opened
+2026-05-14 21:52:17 - INFO - root - Trying to login with data - locked_out_user, secret_sauce
+2026-05-14 21:52:17 - INFO - root - Trying to login with locked_out_user, secret_sauce
+2026-05-14 21:52:17 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:52:17 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:52:17 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:52:17 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:52:18 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:52:18 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:52:18 - INFO - root - Checking logged in status
+2026-05-14 21:52:18 - INFO - root - Trying to display error message
+2026-05-14 21:52:18 - INFO - root - Getting the element : ('tag name', 'h3')
+2026-05-14 21:52:18 - INFO - root - Locating the element : ('tag name', 'h3')
+2026-05-14 21:52:21 - INFO - root - Closing browser: edge
+2026-05-14 21:52:21 - INFO - root - ENDING TEST
+2026-05-14 21:52:21 - INFO - root - ================================================
+2026-05-14 21:52:21 - INFO - root - ==================================================
+2026-05-14 21:52:21 - INFO - root - Starting test!!
+2026-05-14 21:52:21 - INFO - root - Reading 
+2026-05-14 21:52:23 - INFO - root - Opened browser: edge
+2026-05-14 21:52:24 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:52:24 - INFO - root - Login page opened
+2026-05-14 21:52:24 - INFO - root - Trying to login with data - wrong_user, wrong_pass
+2026-05-14 21:52:24 - INFO - root - Trying to login with wrong_user, wrong_pass
+2026-05-14 21:52:24 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:52:24 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:52:24 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:52:24 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:52:24 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:52:24 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:52:25 - INFO - root - Checking logged in status
+2026-05-14 21:52:25 - INFO - root - Trying to display error message
+2026-05-14 21:52:25 - INFO - root - Getting the element : ('tag name', 'h3')
+2026-05-14 21:52:25 - INFO - root - Locating the element : ('tag name', 'h3')
+2026-05-14 21:52:26 - INFO - root - Closing browser: edge
+2026-05-14 21:52:26 - INFO - root - ENDING TEST
+2026-05-14 21:52:26 - INFO - root - ================================================
+2026-05-14 21:56:30 - INFO - root - ==================================================
+2026-05-14 21:56:30 - INFO - root - Starting test!!
+2026-05-14 21:56:30 - INFO - root - Reading 
+2026-05-14 21:56:32 - INFO - root - Opened browser: edge
+2026-05-14 21:56:33 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:56:33 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-14 21:56:33 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:56:33 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:56:33 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:56:33 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:56:33 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:56:33 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:56:34 - INFO - root - Getting product name
+2026-05-14 21:56:37 - INFO - root - Closing browser: edge
+2026-05-14 21:56:37 - INFO - root - ENDING TEST
+2026-05-14 21:56:37 - INFO - root - ================================================
+2026-05-14 21:56:37 - INFO - root - ==================================================
+2026-05-14 21:56:37 - INFO - root - Starting test!!
+2026-05-14 21:56:37 - INFO - root - Reading 
+2026-05-14 21:56:39 - INFO - root - Opened browser: edge
+2026-05-14 21:56:40 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:56:40 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-14 21:56:40 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:56:40 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:56:40 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:56:40 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:56:41 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:56:41 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:56:41 - INFO - root - Getting product name
+2026-05-14 21:56:44 - INFO - root - Closing browser: edge
+2026-05-14 21:56:44 - INFO - root - ENDING TEST
+2026-05-14 21:56:44 - INFO - root - ================================================
+2026-05-14 21:56:44 - INFO - root - ==================================================
+2026-05-14 21:56:44 - INFO - root - Starting test!!
+2026-05-14 21:56:44 - INFO - root - Reading 
+2026-05-14 21:56:46 - INFO - root - Opened browser: edge
+2026-05-14 21:56:47 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:56:47 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-14 21:56:47 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:56:47 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:56:47 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:56:47 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:56:47 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:56:47 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:56:48 - INFO - root - Clicking on menu button and logout
+2026-05-14 21:56:48 - INFO - root -  Clicking in the element : ('id', 'react-burger-menu-btn')
+2026-05-14 21:56:48 - INFO - root - Locating the element : ('id', 'react-burger-menu-btn')
+2026-05-14 21:56:48 - INFO - root -  Clicking in the element : ('id', 'logout_sidebar_link')
+2026-05-14 21:56:48 - INFO - root - Locating the element : ('id', 'logout_sidebar_link')
+2026-05-14 21:56:51 - INFO - root - Closing browser: edge
+2026-05-14 21:56:51 - INFO - root - ENDING TEST
+2026-05-14 21:56:51 - INFO - root - ================================================
+2026-05-14 21:56:51 - INFO - root - ==================================================
+2026-05-14 21:56:51 - INFO - root - Starting test!!
+2026-05-14 21:56:51 - INFO - root - Reading 
+2026-05-14 21:56:53 - INFO - root - Opened browser: edge
+2026-05-14 21:56:53 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:56:53 - INFO - root - Login page opened
+2026-05-14 21:56:53 - INFO - root - Trying to login with data - standard_user, secret_sauce
+2026-05-14 21:56:53 - INFO - root - Trying to login with standard_user, secret_sauce
+2026-05-14 21:56:53 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:56:53 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:56:54 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:56:54 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:56:54 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:56:54 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:56:54 - INFO - root - Checking logged in status
+2026-05-14 21:56:54 - INFO - root - Login Successful - Inventory page opened 
+2026-05-14 21:56:54 - INFO - root - Screenshot saved at: reports/screenshots/login_test_20260514_215654.png
+2026-05-14 21:57:01 - INFO - root - Closing browser: edge
+2026-05-14 21:57:01 - INFO - root - ENDING TEST
+2026-05-14 21:57:01 - INFO - root - ================================================
+2026-05-14 21:57:01 - INFO - root - ==================================================
+2026-05-14 21:57:01 - INFO - root - Starting test!!
+2026-05-14 21:57:01 - INFO - root - Reading 
+2026-05-14 21:57:03 - INFO - root - Opened browser: edge
+2026-05-14 21:57:03 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:57:03 - INFO - root - Login page opened
+2026-05-14 21:57:03 - INFO - root - Trying to login with data - locked_out_user, secret_sauce
+2026-05-14 21:57:03 - INFO - root - Trying to login with locked_out_user, secret_sauce
+2026-05-14 21:57:03 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:57:03 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:57:04 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:57:04 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:57:04 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:57:04 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:57:04 - INFO - root - Checking logged in status
+2026-05-14 21:57:04 - INFO - root - Trying to display error message
+2026-05-14 21:57:04 - INFO - root - Getting the element : ('tag name', 'h3')
+2026-05-14 21:57:04 - INFO - root - Locating the element : ('tag name', 'h3')
+2026-05-14 21:57:04 - ERROR - root - Login failed -  Inventory page not opened
+2026-05-14 21:57:04 - INFO - root - Screenshot saved at: reports/screenshots/login_test_20260514_215704.png
+2026-05-14 21:57:09 - INFO - root - Closing browser: edge
+2026-05-14 21:57:09 - INFO - root - ENDING TEST
+2026-05-14 21:57:09 - INFO - root - ================================================
+2026-05-14 21:57:09 - INFO - root - ==================================================
+2026-05-14 21:57:09 - INFO - root - Starting test!!
+2026-05-14 21:57:09 - INFO - root - Reading 
+2026-05-14 21:57:11 - INFO - root - Opened browser: edge
+2026-05-14 21:57:11 - INFO - root - Url loaded: https://www.saucedemo.com/
+2026-05-14 21:57:11 - INFO - root - Login page opened
+2026-05-14 21:57:11 - INFO - root - Trying to login with data - wrong_user, wrong_pass
+2026-05-14 21:57:11 - INFO - root - Trying to login with wrong_user, wrong_pass
+2026-05-14 21:57:11 - INFO - root - Typing the element : ('id', 'user-name')
+2026-05-14 21:57:11 - INFO - root - Locating the element : ('id', 'user-name')
+2026-05-14 21:57:12 - INFO - root - Typing the element : ('id', 'password')
+2026-05-14 21:57:12 - INFO - root - Locating the element : ('id', 'password')
+2026-05-14 21:57:12 - INFO - root -  Clicking in the element : ('id', 'login-button')
+2026-05-14 21:57:12 - INFO - root - Locating the element : ('id', 'login-button')
+2026-05-14 21:57:12 - INFO - root - Checking logged in status
+2026-05-14 21:57:12 - INFO - root - Trying to display error message
+2026-05-14 21:57:12 - INFO - root - Getting the element : ('tag name', 'h3')
+2026-05-14 21:57:12 - INFO - root - Locating the element : ('tag name', 'h3')
+2026-05-14 21:57:12 - ERROR - root - Login failed -  Inventory page not opened
+2026-05-14 21:57:12 - INFO - root - Screenshot saved at: reports/screenshots/login_test_20260514_215712.png
+2026-05-14 21:57:16 - INFO - root - Closing browser: edge
+2026-05-14 21:57:16 - INFO - root - ENDING TEST
+2026-05-14 21:57:16 - INFO - root - ================================================

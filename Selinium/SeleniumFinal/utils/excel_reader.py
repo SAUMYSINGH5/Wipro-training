@@ -8,7 +8,7 @@ class ExcelReader:
     def read_excel(file_name, sheet_name):
         data = []
 
-        base_dir = os.path.dirname(os.path.dirname(_file_))
+        base_dir = os.path.dirname(os.path.dirname(__file__))
         file_path = str(os.path.join(base_dir, "data", file_name))
 
         workbook = load_workbook(file_path)

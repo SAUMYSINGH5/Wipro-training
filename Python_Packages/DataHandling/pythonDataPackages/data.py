@@ -27,7 +27,7 @@ print("Data from JSON:\n", jxlsxson_data)
 
 
 
-import pandas as pd
+import pds as pd
 
 # Sample DataFrame
 data = pd.DataFrame({

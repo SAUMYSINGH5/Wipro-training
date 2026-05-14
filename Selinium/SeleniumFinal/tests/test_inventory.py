@@ -1,32 +1,24 @@
 import pytest
-from selenium.webdriver.common.devtools.v145.page import Screenshot
 
 from pages.loginpage import LoginPage
 from pages.inventorypage import InventoryPage
 from utils.csv_reader import CSVReader
 from utils.excel_reader import ExcelReader
-from utils.logger import LogGen
-from utils.screenshot_util import ScreenshotUtil
-
-logger = LogGen.loggen()
 
 @pytest.mark.parametrize(
     "data",
-    #CSVReader.read_csv("product_validation_data.csv")
-    ExcelReader.read_excel("test_data.ods", "product_validation")
+    CSVReader.read_csv("product_validation_data.csv")
+    #ExcelReader.read_excel("test_data.xlsx", "product_validation_data")
 )
 @pytest.mark.order(4)
 def test_product_data(driver, data):
     # Arrange: login is setup
     login_page = LoginPage(driver)
-    logger.info(f'Login Page opened')
-
     inventory_page = InventoryPage(driver)
 
     # Action: Login
     login_page.login()
     product_names = inventory_page.get_product_names()
-    screenshot_path = ScreenshotUtil.capture_screenshot(driver, screenshot_name="login_test")
 
     # Assert: inventory page contract
     #After DDT
@@ -43,7 +35,3 @@ def test_logout(driver):
     inventory_page.logout()
 
     assert "saucedemo.com" in driver.current_url
-
-
-
-

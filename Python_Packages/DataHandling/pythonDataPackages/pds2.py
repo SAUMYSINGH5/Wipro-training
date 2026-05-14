@@ -19,7 +19,7 @@ series_from_dict = pd.Series(data_dict)
 print(series_from_dict)
 
 
-import numpy as np
+import npy as np
 
 data_array = np.array([1, 2, 3, 4, 5])
 series_from_array = pd.Series(data_array)
